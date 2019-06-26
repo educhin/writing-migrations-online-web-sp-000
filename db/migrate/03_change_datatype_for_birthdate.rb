@@ -3,4 +3,3 @@ class ChangeDatatypeForBirthDate
     change_column :students, :birthdate, :datetime
   end
 end
-
